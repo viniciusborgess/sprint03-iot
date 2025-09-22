@@ -1,4 +1,11 @@
-# Face ID Demo - OpenCV + Haar Cascade + LBPH
+# Sprint 03 - IOT
+
+- ⁠Vinicius Sobreira Borges - RM 97767 
+- Leticia Fontana Baptista - RM 550289
+- Guilherme Catelli Bichaco - RM 97989
+- ⁠Julia Palomari - RM 551910
+- ⁠Julia Ortiz - RM 550204
+
 
 Aplicação local simples para **detecção** e **identificação** facial em tempo real usando webcam.
 A proposta atende aos requisitos mínimos: uso de técnica clássica com **OpenCV**, parâmetros **ajustáveis**, exibição na tela com **retângulos**, pequenos **landmarks** de olhos e **identificação** por **LBPH**. O projeto é intencionalmente enxuto.
